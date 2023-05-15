@@ -5,7 +5,7 @@ Créer un modèle de prédiction de la popularité des films Netflix en utilisan
 
 ## Données :
 Les données à utiliser sont récupérées sur Kaggle sous format CSV : https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download&select=netflix_titles.csv
-Les données contiennent des informations sur les films et émissions de télévision disponibles sur Netflix dans différents pays, ainsi que leur année de sortie, leur classification par âge, leur genre, leur description et leur popularité.
+Les données contiennent des informations sur les films et émissions de télévision disponibles sur Netflix dans différents pays, ainsi que leur année de sortie, leur classification par âge, leur genre,... etc
 
 ## Variables d'entrée :
 
