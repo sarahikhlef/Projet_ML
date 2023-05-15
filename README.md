@@ -9,10 +9,10 @@ Les données contiennent des informations sur les films et émissions de télév
 
 ## Variables d'entrée :
 
-Genre du film ou de la série
-Année de sortie
-Classification par âge
-Description du film ou de la série
+- Genre du film ou de la série
+- Année de sortie
+- Classification par âge
+- Description du film ou de la série
 
 ## Variable de sortie :
 Popularité du film ou de la série
