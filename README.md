@@ -1,4 +1,4 @@
-# Projet_ML : Prédiction de popularité des chansons
+# Projet_ML : Prédiction de popularité des chansons Spotify
 ## Objectif :
 
 Ce projet vise à développer un modèle de prédiction de popularité des chansons en utilisant des techniques d'apprentissage supervisé.
